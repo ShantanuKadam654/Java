@@ -11,7 +11,7 @@ class list
 		list.add("one");
 		list.add("two");
 		list.add("three");
-		list.add("four");
+		list.add("one"); //accept duplicate items
 
 		System.out.println("List Items :"+list);
 	}
